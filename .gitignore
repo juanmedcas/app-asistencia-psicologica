@@ -1,0 +1,14 @@
+# Entorno virtual de Python
+venv/
+env/
+__pycache__/
+
+# Archivos de caché de Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Archivos generados por IDEs o editores
+.vscode/
+.idea/
+*.code-workspace
